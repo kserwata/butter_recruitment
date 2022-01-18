@@ -1,0 +1,156 @@
+[
+  {
+    "id": "X13200000Z",
+    "activity_date": "2021-04-16T08:05:35.941465",
+    "track_id": "T123456",
+    "status": "A",
+    "billing_amount": 10.54
+  },
+  {
+    "id": "X13200001Z",
+    "activity_date": "2021-04-16T08:05:36.941465",
+    "track_id": "T123456",
+    "status": "S",
+    "billing_amount": 10.54
+  },
+  {
+    "id": "X13200002Z",
+    "activity_date": "2021-04-16T08:05:37.941465",
+    "track_id": "T123456",
+    "status": "R",
+    "billing_amount": 0.54
+  },
+  {
+    "id": "X13200003Z",
+    "activity_date": "2021-04-16T08:05:38.941465",
+    "track_id": "T2123456",
+    "status": "A",
+    "billing_amount": 3.33
+  },
+  {
+    "id": "X13200004Z",
+    "activity_date": "2021-04-16T08:05:39.941465",
+    "track_id": "T2123456",
+    "status": "S",
+    "billing_amount": 3.33
+  },
+  {
+    "id": "X13200005Z",
+    "activity_date": "2021-04-16T08:05:40.941465",
+    "track_id": "T3123456",
+    "status": "A",
+    "billing_amount": 6.60
+  },
+  {
+    "id": "X13200006Z",
+    "activity_date": "2021-04-16T08:05:41.941465",
+    "track_id": "T3123456",
+    "status": "A",
+    "billing_amount": 6.60
+  },
+  {
+    "id": "X13200007Z",
+    "activity_date": "2021-04-16T08:05:42.941465",
+    "track_id": "T3123456",
+    "status": "S",
+    "billing_amount": 6.60
+  },
+  {
+    "id": "X13200008Z",
+    "activity_date": "2021-04-16T08:05:43.941465",
+    "track_id": "T4123456",
+    "status": "A",
+    "billing_amount": 100.00
+  },
+  {
+    "id": "X13200009Z",
+    "activity_date": "2021-04-16T08:05:44.941465",
+    "track_id": "T5123456",
+    "status": "A",
+    "billing_amount": 50.00
+  },
+  {
+    "id": "X13200011Z",
+    "activity_date": "2021-04-16T08:05:45.941465",
+    "track_id": "T5123456",
+    "status": "S",
+    "billing_amount": 25.00
+  },
+  {
+    "id": "X13200012Z",
+    "activity_date": "2021-04-16T08:05:46.941465",
+    "track_id": "T5123456",
+    "status": "R",
+    "billing_amount": 5.00
+  },
+  {
+    "id": "X13200009Z",
+    "activity_date": "2021-04-16T08:05:44.941465",
+    "track_id": "T5123456",
+    "status": "A",
+    "billing_amount": 50.00
+  },
+  {
+    "id": "X13200011Z",
+    "activity_date": "2021-04-16T08:05:45.941465",
+    "track_id": "T5123456",
+    "status": "S",
+    "billing_amount": 25.00
+  },
+  {
+    "id": "X13200012Z",
+    "activity_date": "2021-04-16T08:05:46.941465",
+    "track_id": "T5123456",
+    "status": "R",
+    "billing_amount": 5.00
+  },
+  {
+    "id": "X13200013Z",
+    "activity_date": "2021-04-16T09:05:35.941465",
+    "track_id": "T1234562",
+    "status": "A",
+    "billing_amount": 10.54
+  },
+  {
+    "id": "X13200001Z",
+    "activity_date": "2021-04-16T09:05:36.941465",
+    "track_id": "T1234562",
+    "status": "S",
+    "billing_amount": 10.54
+  },
+  {
+    "id": "X13200002Z",
+    "activity_date": "2021-04-16T09:05:37.941465",
+    "track_id": "T1234562",
+    "status": "R",
+    "billing_amount": 0.54
+  },
+  {
+    "id": "X13200013Z2",
+    "activity_date": "2021-04-16T09:06:35.941465",
+    "track_id": "T1234563",
+    "status": "A",
+    "billing_amount": 10.54
+  },
+  {
+    "id": "X13200001Z2",
+    "activity_date": "2021-04-16T09:06:36.941465",
+    "track_id": "T1234563",
+    "status": "S",
+    "billing_amount": 10.54
+  },
+  {
+    "id": "X1320000122",
+    "activity_date": "2021-04-16T09:06:36.951465",
+    "track_id": "T123456S",
+    "status": "A",
+    "billing_amount": 10.54
+  },
+  {
+    "id": "X13200002Z2",
+    "activity_date": "2021-04-16T09:06:37.941465",
+    "track_id": "T1234563",
+    "status": "R",
+    "billing_amount": 0.54
+  }
+]
